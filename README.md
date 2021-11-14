@@ -14,4 +14,4 @@ Learn Python - https://www.learnpython.org/
 
 Python for Beginners - https://youtu.be/kqtD5dpn9C8
 
-### To run notebook for your own use, install Jupyter notebook using Anaconda,  You can download Anaconda at https://www.anaconda.com/products/individual.
+### To run notebook for your own use, install Jupyter notebook using Anaconda.  You can download Anaconda at https://www.anaconda.com/products/individual.
